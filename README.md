@@ -51,6 +51,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Project Structure
 
+```
 /
 ├── public/
 │   └── songs/        # MP3 files are stored here
@@ -63,3 +64,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 │   └── index.css     # Global styles
 ├── package.json
 └── README.md
+```
